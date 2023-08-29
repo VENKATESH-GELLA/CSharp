@@ -1,0 +1,14 @@
+A:\CSharp\Programs\bin\Debug\net7.0\Programs.exe
+A:\CSharp\Programs\bin\Debug\net7.0\Programs.deps.json
+A:\CSharp\Programs\bin\Debug\net7.0\Programs.runtimeconfig.json
+A:\CSharp\Programs\bin\Debug\net7.0\Programs.dll
+A:\CSharp\Programs\bin\Debug\net7.0\Programs.pdb
+A:\CSharp\Programs\obj\Debug\net7.0\Programs.GeneratedMSBuildEditorConfig.editorconfig
+A:\CSharp\Programs\obj\Debug\net7.0\Programs.AssemblyInfoInputs.cache
+A:\CSharp\Programs\obj\Debug\net7.0\Programs.AssemblyInfo.cs
+A:\CSharp\Programs\obj\Debug\net7.0\Programs.csproj.CoreCompileInputs.cache
+A:\CSharp\Programs\obj\Debug\net7.0\Programs.dll
+A:\CSharp\Programs\obj\Debug\net7.0\refint\Programs.dll
+A:\CSharp\Programs\obj\Debug\net7.0\Programs.pdb
+A:\CSharp\Programs\obj\Debug\net7.0\Programs.genruntimeconfig.cache
+A:\CSharp\Programs\obj\Debug\net7.0\ref\Programs.dll
